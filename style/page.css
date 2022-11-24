@@ -94,8 +94,8 @@
   width:1300px;
   margin-left: -100px;
 }
-
-.h1{
+/*  */
+/* .h1{
   position: relative;
   margin-top: -380px;
   margin-left: 195px;
@@ -113,7 +113,7 @@
   margin-left: 70px;
   color: white; 
   font-size: 17px;
-}
+} */
 
 
 /* gioi thieu */
@@ -249,7 +249,8 @@
   text-decoration: none;
   color: black;
 }
-.col-sm-5{
+
+.footer .col-sm-5{
   border-right: 2px solid #EBEBEB;
 }
 .add li{
@@ -335,6 +336,7 @@
   position: relative;
 }
 
+
 /* trang chu */
 .content {
  position: absolute;
@@ -362,3 +364,22 @@ body {
   overflow-x: hidden;
 }
 
+.h1{
+  position: relative;
+  margin-top: -380px;
+  margin-left: 195px;
+  color: white;
+  font-size: 60px;
+}
+.h4{
+  margin-top: auto;
+  margin-left: 203px;
+  color: white;
+  font-size: 16;
+}
+.h3{
+  margin-top: auto;
+  margin-left: 70px;
+  color: white; 
+  font-size: 17px;
+}
